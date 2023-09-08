@@ -1,6 +1,6 @@
-# BX
+# BankXpress
 This repository contains 
-Sparks Foundation Internship Project : BasicXpress
+Sparks Foundation Internship Project : BankXpress
 A Webpage used to transfer money between multiple users.
 
 Stack used - 
